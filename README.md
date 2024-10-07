@@ -1,0 +1,9 @@
+luci-app-mosdns从[上游](https://github.com/sbwml/luci-app-mosdns/commits/v5/luci-app-mosdns)获取版本为：370fcafc4d71a3ae7f10a0580f5c6d1eb025c1b8
+***
+luci-app-passwall从[上游](https://github.com/xiaorouji/openwrt-passwall/commits/main/luci-app-passwall)获取版本为：f738d0b898ed98676c5e80278c8aeb4a681a5000
+***
+v2dat从[上游](https://github.com/sbwml/luci-app-mosdns/commits/v5/v2dat)获取版本为：21bff11aebfdb0b0f8fdab8c4b1322e404b7038c
+***
+v2ray-geodata从[上游](https://github.com/sbwml/v2ray-geodata/commits/master/)获取版本为：94fe77ccb46328a156d88ce5ec2c1eb487936c9b
+***
+23.05编译依赖从[上游](https://github.com/immortalwrt/immortalwrt/commits/openwrt-23.05/README.md)获取版本为：0b1d7a7c1d2b5e4a17eb7f66d762f83fd8524fd3
