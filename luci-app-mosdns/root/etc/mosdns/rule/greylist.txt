@@ -1,0 +1,2 @@
+domain:bing.com
+domain:github.com
