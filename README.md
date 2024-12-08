@@ -1,0 +1,11 @@
+haproxy从[上游](https://www.haproxy.org/download/3.0/src/)获取版本为：3.0.6
+***
+luci-app-passwall从[上游](https://github.com/xiaorouji/openwrt-passwall/commits/main/luci-app-passwall)获取版本为：aa42199d190ab23e1511bc0ab98ad59ccf527da0
+***
+luci-app-mosdns从[上游](https://github.com/sbwml/luci-app-mosdns/commits/v5/luci-app-mosdns)获取版本为：dde0c9557cb5022216b749ebdf24ae67f97c09c1
+***
+v2ray-geodata从[上游](https://github.com/sbwml/v2ray-geodata/commits/master/)获取版本为：94fe77ccb46328a156d88ce5ec2c1eb487936c9b
+***
+v2dat从[上游](https://github.com/sbwml/luci-app-mosdns/commits/v5/v2dat)获取版本为：21bff11aebfdb0b0f8fdab8c4b1322e404b7038c
+***
+23.05编译依赖从[上游](https://github.com/immortalwrt/immortalwrt/commits/openwrt-23.05/README.md)获取版本为：f213890acdc403c50075980a33a12e37f23c93ca
