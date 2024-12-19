@@ -1,0 +1,3 @@
+# MosDNS Rules
+domain:adobe.io
+full:cn.bing.com
