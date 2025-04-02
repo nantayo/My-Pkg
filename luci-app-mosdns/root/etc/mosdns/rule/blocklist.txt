@@ -1,0 +1,6 @@
+# MosDNS Rules
+domain:adobe.de
+domain:adobe.io
+domain:adobestats.io
+domain:registeridm.com
+domain:tonec.com
