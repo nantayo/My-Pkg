@@ -1,0 +1,2 @@
+# MosDNS Rules
+domain:v51124-6.qpon
