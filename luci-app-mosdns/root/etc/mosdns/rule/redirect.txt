@@ -1,0 +1,2 @@
+# MosDNS Rules
+cn.bing.com www.bing.com

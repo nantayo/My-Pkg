@@ -1,0 +1,3 @@
+# MosDNS Rules
+domain:bing.com
+domain:github.com
