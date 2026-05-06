@@ -1,0 +1,2 @@
+# MosDNS Rules
+domain:geosite_bing
