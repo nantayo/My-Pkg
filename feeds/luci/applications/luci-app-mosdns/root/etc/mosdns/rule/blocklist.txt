@@ -1,0 +1,7 @@
+# MosDNS Rules
+domain:adobe.de
+domain:adobe.io
+domain:adobestats.io
+domain:mcdn.bilivideo.cn
+domain:mcdn.bilivideo.com
+domain:szbdyd.com
