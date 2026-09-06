@@ -1,0 +1,20 @@
+--- a/Makefile
++++ b/Makefile
+@@ -233,7 +233,7 @@ GVPROXY_VERSION=$(shell $(GO) list -m -f
+ default: all
+ 
+ .PHONY: all
+-all: binaries docs
++all: binaries
+ 
+ .PHONY: binaries
+ binaries: ## Build all platform-appropriate binaries
+@@ -882,7 +882,7 @@ rpm-install: package  ## Install RPM pac
+ 	/usr/bin/podman info  # will catch a broken conmon
+ 
+ .PHONY: install
+-install: install.bin install.remote install.man install.systemd  ## Install all binaries, man pages, and systemd units
++install: install.bin install.remote install.systemd  ## Install all binaries, man pages, and systemd units
+ 
+ .PHONY: install.remote
+ install.remote:
