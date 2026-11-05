@@ -1,0 +1,4 @@
+# MosDNS Rules
+domain:adobe.io
+domain:edge.mountaintoys.cn
+domain:mcdn.bilivideo.cn
