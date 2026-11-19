@@ -1,0 +1,1 @@
+autoconf automake autopoint binutils bison build-essential bzip2 cpio curl device-tree-compiler flex gawk gettext git gperf intltool libelf-dev libncurses-dev libssl-dev libtool ninja-build patch pkgconf python3 python3-ply python3-docutils python3-pyelftools rsync squashfs-tools unzip wget zlib1g-dev zstd
